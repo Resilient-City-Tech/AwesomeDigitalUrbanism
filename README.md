@@ -6,6 +6,7 @@
 * [Airdna](https://www.airdna.co/) - Analytics by cities and regions regarding short-term rental host
 * [ArcGIS](https://www.esri.com/en-us/home) - mapping and data analysis software. [ArcGIS Urban](https://www.esri.com/about/newsroom/?s=&category_name=arcgis-urban)
 * [Google Earth](https://www.google.com/earth/about/design/)(former Sidewalklabs) - Evaluate building and solar design options.
+* [Streamlit](https://github.com/streamlit/demo-uber-nyc-pickups) - Demo to interactively visualize Uber pickups in New York City 
 
 ## Sustainability
 
