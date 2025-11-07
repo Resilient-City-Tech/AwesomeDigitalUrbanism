@@ -12,6 +12,9 @@
 
 * [Electricity Maps](https://app.electricitymaps.com/map) - Track how much carbon was emitted to produce electricity in a specific area
 
+## Mobility
+* [Traffic Simulation](https://www.ptvgroup.com/en/application-areas/traffic-simulation)
+
 ### Organizations
 
 * [Space Syntax](https://spacesyntax.com/) - Architecture & urban planning
